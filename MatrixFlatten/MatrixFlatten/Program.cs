@@ -12,27 +12,29 @@ namespace MatrixFlatten
         {
             userInput();
             create1DArray();
-        }
 
+        }
 
         #region MATRIX FUNCTIONS
         static void userInput()
         {
-            Console.WriteLine("Enter The number of Rows for 3d Array");
+            Console.WriteLine("Enter The number of Rows for 3d Array: ");
             n = int.Parse(Console.ReadLine());
-            Console.WriteLine("Enter The number of Columns for 3d Array");
+            Console.WriteLine("Enter The number of Columns for 3d Array: ");
             m = int.Parse(Console.ReadLine());
-            Console.WriteLine("Enter The number of Cells in each Cell for 3d Array");
+            Console.WriteLine("Enter The number of Cells in each Cell for 3d Array: ");
             p = int.Parse(Console.ReadLine());
             arr_3D = new int[n, m, p];
+            Console.WriteLine("\n======================================================================");
 
             for (int i = 0; i < n; i++)
                 for (int j = 0; j < m; j++)
                 {
-                    Console.WriteLine($"The Row number {i + 1}, The Column number: {j + 1}, Enter The Values of this Cell");
+                    Console.WriteLine($"The Row number {i + 1}, The Column number: {j + 1}, Enter The Values of this Cell: ");
                     for (int k = 0; k < p; k++)
                         arr_3D[i, j, k] = int.Parse(Console.ReadLine());
                 }
+            Console.WriteLine("======================================================================");
         }
 
         static void create1DArray()
@@ -46,7 +48,12 @@ namespace MatrixFlatten
                     for (int k = 0; k < p; k++)
                         arr_1D[y++] = arr_3D[i, j, k];
         }
+
+        static int getMirrorIndex(int i, int j, int k)
+        {
+            return (i * m * p) + (j * p) + k;
+        }
         #endregion
-    
+
     }
 }
