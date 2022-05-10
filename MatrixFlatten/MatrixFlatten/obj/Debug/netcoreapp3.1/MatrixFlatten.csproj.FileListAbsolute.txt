@@ -26,3 +26,17 @@ F:\Draasa\Internships\Master Micro\Process Tasks\Tasks\Matrix-Flatten\MatrixFlat
 F:\Draasa\Internships\Master Micro\Process Tasks\Tasks\Matrix-Flatten\MatrixFlatten\MatrixFlatten\obj\Debug\netcoreapp3.1\MatrixFlatten.dll
 F:\Draasa\Internships\Master Micro\Process Tasks\Tasks\Matrix-Flatten\MatrixFlatten\MatrixFlatten\obj\Debug\netcoreapp3.1\MatrixFlatten.pdb
 F:\Draasa\Internships\Master Micro\Process Tasks\Tasks\Matrix-Flatten\MatrixFlatten\MatrixFlatten\obj\Debug\netcoreapp3.1\MatrixFlatten.genruntimeconfig.cache
+F:\Draasa\Internships\MasterMicro\Process-Tasks\Tasks\Matrix-Flatten\MatrixFlatten\MatrixFlatten\bin\Debug\netcoreapp3.1\MatrixFlatten.exe
+F:\Draasa\Internships\MasterMicro\Process-Tasks\Tasks\Matrix-Flatten\MatrixFlatten\MatrixFlatten\bin\Debug\netcoreapp3.1\MatrixFlatten.deps.json
+F:\Draasa\Internships\MasterMicro\Process-Tasks\Tasks\Matrix-Flatten\MatrixFlatten\MatrixFlatten\bin\Debug\netcoreapp3.1\MatrixFlatten.runtimeconfig.json
+F:\Draasa\Internships\MasterMicro\Process-Tasks\Tasks\Matrix-Flatten\MatrixFlatten\MatrixFlatten\bin\Debug\netcoreapp3.1\MatrixFlatten.runtimeconfig.dev.json
+F:\Draasa\Internships\MasterMicro\Process-Tasks\Tasks\Matrix-Flatten\MatrixFlatten\MatrixFlatten\bin\Debug\netcoreapp3.1\MatrixFlatten.dll
+F:\Draasa\Internships\MasterMicro\Process-Tasks\Tasks\Matrix-Flatten\MatrixFlatten\MatrixFlatten\bin\Debug\netcoreapp3.1\MatrixFlatten.pdb
+F:\Draasa\Internships\MasterMicro\Process-Tasks\Tasks\Matrix-Flatten\MatrixFlatten\MatrixFlatten\obj\Debug\netcoreapp3.1\MatrixFlatten.csproj.AssemblyReference.cache
+F:\Draasa\Internships\MasterMicro\Process-Tasks\Tasks\Matrix-Flatten\MatrixFlatten\MatrixFlatten\obj\Debug\netcoreapp3.1\MatrixFlatten.GeneratedMSBuildEditorConfig.editorconfig
+F:\Draasa\Internships\MasterMicro\Process-Tasks\Tasks\Matrix-Flatten\MatrixFlatten\MatrixFlatten\obj\Debug\netcoreapp3.1\MatrixFlatten.AssemblyInfoInputs.cache
+F:\Draasa\Internships\MasterMicro\Process-Tasks\Tasks\Matrix-Flatten\MatrixFlatten\MatrixFlatten\obj\Debug\netcoreapp3.1\MatrixFlatten.AssemblyInfo.cs
+F:\Draasa\Internships\MasterMicro\Process-Tasks\Tasks\Matrix-Flatten\MatrixFlatten\MatrixFlatten\obj\Debug\netcoreapp3.1\MatrixFlatten.csproj.CoreCompileInputs.cache
+F:\Draasa\Internships\MasterMicro\Process-Tasks\Tasks\Matrix-Flatten\MatrixFlatten\MatrixFlatten\obj\Debug\netcoreapp3.1\MatrixFlatten.dll
+F:\Draasa\Internships\MasterMicro\Process-Tasks\Tasks\Matrix-Flatten\MatrixFlatten\MatrixFlatten\obj\Debug\netcoreapp3.1\MatrixFlatten.pdb
+F:\Draasa\Internships\MasterMicro\Process-Tasks\Tasks\Matrix-Flatten\MatrixFlatten\MatrixFlatten\obj\Debug\netcoreapp3.1\MatrixFlatten.genruntimeconfig.cache

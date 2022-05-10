@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "F:\\Draasa\\Internships\\Master Micro\\Process Tasks\\Tasks\\Matrix-Flatten\\MatrixFlatten\\MatrixFlatten\\MatrixFlatten.csproj": {}
+    "F:\\Draasa\\Internships\\MasterMicro\\Process-Tasks\\Tasks\\Matrix-Flatten\\MatrixFlatten\\MatrixFlatten\\MatrixFlatten.csproj": {}
   },
   "projects": {
-    "F:\\Draasa\\Internships\\Master Micro\\Process Tasks\\Tasks\\Matrix-Flatten\\MatrixFlatten\\MatrixFlatten\\MatrixFlatten.csproj": {
+    "F:\\Draasa\\Internships\\MasterMicro\\Process-Tasks\\Tasks\\Matrix-Flatten\\MatrixFlatten\\MatrixFlatten\\MatrixFlatten.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "F:\\Draasa\\Internships\\Master Micro\\Process Tasks\\Tasks\\Matrix-Flatten\\MatrixFlatten\\MatrixFlatten\\MatrixFlatten.csproj",
+        "projectUniqueName": "F:\\Draasa\\Internships\\MasterMicro\\Process-Tasks\\Tasks\\Matrix-Flatten\\MatrixFlatten\\MatrixFlatten\\MatrixFlatten.csproj",
         "projectName": "MatrixFlatten",
-        "projectPath": "F:\\Draasa\\Internships\\Master Micro\\Process Tasks\\Tasks\\Matrix-Flatten\\MatrixFlatten\\MatrixFlatten\\MatrixFlatten.csproj",
+        "projectPath": "F:\\Draasa\\Internships\\MasterMicro\\Process-Tasks\\Tasks\\Matrix-Flatten\\MatrixFlatten\\MatrixFlatten\\MatrixFlatten.csproj",
         "packagesPath": "C:\\Users\\Kareem\\.nuget\\packages\\",
-        "outputPath": "F:\\Draasa\\Internships\\Master Micro\\Process Tasks\\Tasks\\Matrix-Flatten\\MatrixFlatten\\MatrixFlatten\\obj\\",
+        "outputPath": "F:\\Draasa\\Internships\\MasterMicro\\Process-Tasks\\Tasks\\Matrix-Flatten\\MatrixFlatten\\MatrixFlatten\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
